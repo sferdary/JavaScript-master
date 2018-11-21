@@ -1,0 +1,39 @@
+div#slideholder {
+    width: 300px;
+    height: 300px;
+    border: 3px black solid;
+    transition: 2s;
+}
+
+body#crook-app {
+    background-color: black;
+}
+
+div.container {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2#crook-title {
+    text-align: center;
+    color: white;
+}
+
+div#eyeSlider {
+    width: 600px;
+    height: 300px;
+    border: 0;
+}
+
+div#noseSlider {
+    width: 600px;
+    height: 300px;
+    border: 0;
+}
+
+div#mouthSlider {
+    width: 600px;
+    height: 300px;
+    border: 0;
+}
