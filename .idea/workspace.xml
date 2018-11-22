@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61f8c841-8992-4943-bb43-d0f70a29434b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/003/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/img/monkey01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/img/monkey02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/img/monkey03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/img/monkey04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/img/monkey05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/img/monkey06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/img/monkey07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/img/monkey08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/img/monkey09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/index01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/index02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/index03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/script01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/script02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/script03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/001/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/001/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/002/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/002/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +16,11 @@
     <session id="1862296314">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -212,18 +191,20 @@
       <workItem from="1542726276794" duration="4989000" />
       <workItem from="1542747775598" duration="1885000" />
       <workItem from="1542785992201" duration="11108000" />
+      <workItem from="1542817948708" duration="693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24633000" />
+    <option name="totallyTimeSpent" value="25326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09328358" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09434968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" weight="0.32939914" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -234,7 +215,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
